@@ -1,0 +1,1 @@
+To disable cache remove file 'outfit.php' and rename file 'outfit-without-cache.php' to 'outfit.php'.

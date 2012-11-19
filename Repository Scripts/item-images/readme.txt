@@ -1,0 +1,1 @@
+Go 'Downloads' on GitHub and download images pack in .zip

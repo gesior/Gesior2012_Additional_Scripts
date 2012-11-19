@@ -1,0 +1,1 @@
+In this folder generator will create around 220 files which you can put in your acc. maker folder 'cache/flags/' to update country detection informations.
