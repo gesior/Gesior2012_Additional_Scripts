@@ -1,3 +1,8 @@
 .DS_Store
 Thumbs.db
 *~
+/.idea
+/.junie
+/.claude
+*.csv
+Geolocation Data Generator/flags/flag*
